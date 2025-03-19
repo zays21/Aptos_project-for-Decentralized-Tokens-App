@@ -1,0 +1,9 @@
+[package]
+name = "MyStorage"
+version = "0.0.1"
+
+[addresses]
+my_addr = "0xb92d3a26c228b27bb18eac0c5dc4bb3d56457c343e6b8ecae0fb51b58260451c"  
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "aptos-node-v1.8.0" } 
