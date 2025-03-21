@@ -1,0 +1,54 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #1a73e8;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+main {
+  margin-top: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #1a73e8;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #155ab6;
+}
+
+input, select {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.card {
+  background-color: white;
+  margin: 10px auto;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+  width: 80%;
+}
+
+.transaction-link {
+  color: #1a73e8;
+  text-decoration: none;
+}
