@@ -39,5 +39,10 @@ The **Aptos_project for Decentralized Tokens App** has significant potential for
 frontend:
 ![image](https://github.com/user-attachments/assets/c9d08489-60ef-4a74-8789-92cc3b7e855d)
 ![image](https://github.com/user-attachments/assets/16fe1046-5a9b-4627-812c-5af18246b585)
+![image](https://github.com/user-attachments/assets/28e43443-a0e2-43ed-9436-cd0cd90e81fe)
+![image](https://github.com/user-attachments/assets/a57a8b66-88f6-4601-8383-12e9f0be2c57)
+![image](https://github.com/user-attachments/assets/0af94fc4-f1eb-4389-bd39-5925aaa0036b)
+
+
 
 
