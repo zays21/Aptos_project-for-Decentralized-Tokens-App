@@ -36,4 +36,8 @@ The **Aptos_project for Decentralized Tokens App** has significant potential for
 0x0a126342e3bcc935b7392e743765cdc3721efb64669749313770caa37287d8a9
 ---
 ![image](https://github.com/user-attachments/assets/38d29956-4ff0-4d2c-922a-d4953febc25c)
+frontend:
+![image](https://github.com/user-attachments/assets/c9d08489-60ef-4a74-8789-92cc3b7e855d)
+![image](https://github.com/user-attachments/assets/16fe1046-5a9b-4627-812c-5af18246b585)
+
 
