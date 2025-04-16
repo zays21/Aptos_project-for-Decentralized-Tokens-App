@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
  Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project
+![image](https://github.com/user-attachments/assets/d87cc627-32e1-4d89-936d-494501b7deb5)
