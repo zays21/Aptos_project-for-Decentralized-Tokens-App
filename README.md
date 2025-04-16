@@ -31,6 +31,7 @@ The **Aptos_project for Decentralized Tokens App** has significant potential for
 - **User Interface**: Features a modern frontend built with Vite, React, and animated components.
 - **Backend Support**: Node.js backend for real-time data retrieval from the blockchain.
 - **Error Management**: Provides clear feedback for transaction failures or wallet issues.
+- 
 
 ## Contract Address
 0x0a126342e3bcc935b7392e743765cdc3721efb64669749313770caa37287d8a9
@@ -42,6 +43,21 @@ frontend:
 ![image](https://github.com/user-attachments/assets/28e43443-a0e2-43ed-9436-cd0cd90e81fe)
 ![image](https://github.com/user-attachments/assets/a57a8b66-88f6-4601-8383-12e9f0be2c57)
 ![image](https://github.com/user-attachments/assets/0af94fc4-f1eb-4389-bd39-5925aaa0036b)
+# Aptos Project – Decentralized Token Sharing App
+
+A dApp for sharing and storing tokens on the Aptos blockchain using Move, Petra Wallet, and a basic HTML/JS frontend.
+
+---
+
+## 💻 Quick Start
+
+### Backend (Move Module)
+
+1. Install Aptos CLI: https://aptos.dev/cli-tools/aptos-cli-tool/install-aptos-cli/
+2. Run tests:
+   ```bash
+   aptos move test
+
 
 
 
